@@ -43,7 +43,7 @@ Users are able to:
 
 ### What I learned
 
-I learnt a lot of new styles with css attribues?properties. I also understood the default display types of different HTML selectors and how to use position attributes in css. I was able to work with multiple classes without messing and reusing a class in a wrong html tag. Although my class naming needs more professionalism, I am quite happy I got this hands on experience.
+I learnt a lot of new styles with css attribues and properties. I also understood the default display types of different HTML selectors and how to use position styles in css. I was able to work with multiple classes without messing and reusing a class in a wrong html tag. Although my class naming needs more professionalism, I am quite happy I got this hands on experience.
 
 ### Continued development
 
@@ -55,7 +55,7 @@ Most of the styles used in styling this website felt really outdated to me as i 
 
 - [Example resource 2](https://www.w3schools.com/) - This is an amazing article which helped me get better understaning on display attributes and properties associated with each display properties. Also helped in getting better styles and for positioning.
 
-- [Example resource 3](https://cssgenerator.org/) - This is helped in creating box shadows and learnt a lot about using gradient in button styles.
+- [Example resource 3](https://cssgenerator.org/) - This also assisted me in creating box shadows and learnt a lot about using gradient in button styles.
 
 ## Author
 
